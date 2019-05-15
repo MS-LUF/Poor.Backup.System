@@ -1,3 +1,4 @@
+![image](https://www.lucas-cueff.com/files/gallery.png)
 # Poor.Backup.System
 A blazing stupid backup solution for Windows &amp; Linux - based on a simple PowerShell Module working with Powershell Core on both Linux and Windows platform (should work also on Mac but not tested currently).
 
